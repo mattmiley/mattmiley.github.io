@@ -31,10 +31,6 @@ url: "https://mattmiley.github.io" # the base hostname & protocol for your site,
 twitter_username: Matthew_Miley
 github_username:  mattmiley
 
-# this goes inside _config.yml. Change as required
-navigation:
-- text: GitHub
-  url: https://github.com/mattmiley
 
 # Build settings
 theme: minima
